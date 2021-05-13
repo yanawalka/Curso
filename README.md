@@ -4,3 +4,4 @@
 3. Uva
 4. Pera
 5. Naranja
+6. Durazno
